@@ -24,9 +24,9 @@
 ### Outros conhecimentos:
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![PostegreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![PostegreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
