@@ -11,6 +11,8 @@
 
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C)
+
 
 
 
