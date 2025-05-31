@@ -32,5 +32,19 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)
 
+##
+
+<div align="center">
+  <samp>
+    <b>
+      Meios de contato:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jlsousafla@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/j_rodolfo.xx/?next=%2F)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5586998445256)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
