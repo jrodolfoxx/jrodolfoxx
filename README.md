@@ -7,6 +7,6 @@
   <img width="41%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrodolfoxx&theme=github_dark" />
 </div>
 
-[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jrodolfoxxb&bg_color=0d1117&color=e91e63&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/jrodolfoxx)
+[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jrodolfoxx&bg_color=0d1117&color=e91e63&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/jrodolfoxx)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
