@@ -16,10 +16,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=CSS3)
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=GitHub)
-![Canva](https://img.shields.io/badge/Canva-000000.svg?&style=for-the-badge&logo=Canva&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=blue)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
