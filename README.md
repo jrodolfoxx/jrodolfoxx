@@ -21,5 +21,9 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=GitHub)
 ![Canva](https://img.shields.io/badge/Canva-0D1117.svg?&style=for-the-badge&logo=Canva&logoColor=blue)
 
+### Outros conhecimentos:
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
