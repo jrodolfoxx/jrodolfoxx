@@ -10,3 +10,5 @@
 [![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jrodolfoxx&bg_color=0d1117&color=006494&line=1B98E0&point=2D27FF&area=true&hide_border=true)](https://github.com/jrodolfoxx)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
+
+### Principais habilidades:
