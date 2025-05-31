@@ -14,8 +14,4 @@
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=C)
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5)
 
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0313A6&height=120&section=footer"/>
