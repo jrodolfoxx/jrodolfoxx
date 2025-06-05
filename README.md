@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrodolfoxx&theme=github_dark" alt="Estatísticas do GitHub de Jrodolfoxx"/> 
-  <img width="49%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrodolfoxx&theme=github_dark" />
+  <img width="49%" height="195px" src="http:http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrodolfoxx&theme=github_dark" />
 </div>
 
 [![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jrodolfoxx&bg_color=0d1117&color=006494&line=1B98E0&point=2D27FF&area=true&hide_border=true)](https://github.com/jrodolfoxx)
